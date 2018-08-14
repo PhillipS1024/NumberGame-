@@ -1,0 +1,11 @@
+C:\Users\teven\source\repos\NumberGame\NumberGame\bin\Debug\netcoreapp2.0\NumberGame.deps.json
+C:\Users\teven\source\repos\NumberGame\NumberGame\bin\Debug\netcoreapp2.0\NumberGame.runtimeconfig.json
+C:\Users\teven\source\repos\NumberGame\NumberGame\bin\Debug\netcoreapp2.0\NumberGame.runtimeconfig.dev.json
+C:\Users\teven\source\repos\NumberGame\NumberGame\bin\Debug\netcoreapp2.0\NumberGame.dll
+C:\Users\teven\source\repos\NumberGame\NumberGame\bin\Debug\netcoreapp2.0\NumberGame.pdb
+C:\Users\teven\source\repos\NumberGame\NumberGame\obj\Debug\netcoreapp2.0\NumberGame.csprojAssemblyReference.cache
+C:\Users\teven\source\repos\NumberGame\NumberGame\obj\Debug\netcoreapp2.0\NumberGame.csproj.CoreCompileInputs.cache
+C:\Users\teven\source\repos\NumberGame\NumberGame\obj\Debug\netcoreapp2.0\NumberGame.AssemblyInfoInputs.cache
+C:\Users\teven\source\repos\NumberGame\NumberGame\obj\Debug\netcoreapp2.0\NumberGame.AssemblyInfo.cs
+C:\Users\teven\source\repos\NumberGame\NumberGame\obj\Debug\netcoreapp2.0\NumberGame.dll
+C:\Users\teven\source\repos\NumberGame\NumberGame\obj\Debug\netcoreapp2.0\NumberGame.pdb
